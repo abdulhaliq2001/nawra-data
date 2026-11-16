@@ -1,11 +1,25 @@
 {
-  "schema": 1,
   "app": "nawra",
-  "version": "2026.0",
-  "publishedAt": null,
-  "source": "",
-  "years": [],
-  "files": [],
+  "files": [
+    {
+      "bytes": 229848,
+      "path": "tt/perpetual.json",
+      "sha256": "5571b35f2ebfe19593775358802776ff8876ae989be5e87e8bda54bbef02ee3d"
+    },
+    {
+      "bytes": 1626,
+      "path": "zones.json",
+      "sha256": "fe29cca104e591cd5f2c2f695e4164f8d378fa2147d2bb0f0daeb2d4b51c4a79"
+    }
+  ],
+  "heightAdjustments": [],
   "minAppBuild": 1,
-  "notice": null
+  "notice": null,
+  "publishedAt": "2026-11-16T08:34:05+05:30",
+  "ramadan": null,
+  "sahrOffsetMin": -2,
+  "schema": 1,
+  "version": "2026.1",
+  "years": [],
+  "zonesFile": "zones.json"
 }

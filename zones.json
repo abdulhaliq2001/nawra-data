@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "zones": [
+    {
+      "districts": [
+        "colombo",
+        "gampaha",
+        "kalutara"
+      ],
+      "id": "1",
+      "name": "Zone 01"
+    },
+    {
+      "districts": [
+        "jaffna"
+      ],
+      "id": "2",
+      "name": "Zone 02"
+    },
+    {
+      "districts": [
+        "kilinochchi",
+        "mullaitivu",
+        "vavuniya"
+      ],
+      "id": "3",
+      "name": "Zone 03"
+    },
+    {
+      "districts": [
+        "mannar",
+        "puttalam"
+      ],
+      "id": "4",
+      "name": "Zone 04"
+    },
+    {
+      "districts": [
+        "anuradhapura",
+        "polonnaruwa"
+      ],
+      "id": "5",
+      "name": "Zone 05"
+    },
+    {
+      "districts": [
+        "kurunegala"
+      ],
+      "id": "6",
+      "name": "Zone 06"
+    },
+    {
+      "districts": [
+        "kandy",
+        "matale",
+        "nuwara-eliya"
+      ],
+      "id": "7",
+      "name": "Zone 07"
+    },
+    {
+      "districts": [
+        "ampara",
+        "batticaloa"
+      ],
+      "id": "8",
+      "name": "Zone 08"
+    },
+    {
+      "districts": [
+        "trincomalee"
+      ],
+      "id": "9",
+      "name": "Zone 09"
+    },
+    {
+      "districts": [
+        "badulla",
+        "monaragala"
+      ],
+      "id": "10",
+      "name": "Zone 10"
+    },
+    {
+      "districts": [
+        "kegalle",
+        "ratnapura"
+      ],
+      "id": "11",
+      "name": "Zone 11"
+    },
+    {
+      "districts": [
+        "galle",
+        "matara"
+      ],
+      "id": "12",
+      "name": "Zone 12"
+    },
+    {
+      "districts": [
+        "hambantota"
+      ],
+      "id": "13",
+      "name": "Zone 13"
+    }
+  ]
+}
